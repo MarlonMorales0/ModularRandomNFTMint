@@ -13,9 +13,9 @@
 
 ## Introduction
 
-The MyNFT Smart Contract is designed for creators and collectors in the Ethereum blockchain ecosystem. It enables the creation, sale, and trade of unique digital assets known as Non-Fungible Tokens (NFTs). Each NFT represents ownership of a specific item or asset, with the details and uniqueness being verifiable on the blockchain. This contract uses the ERC721 standard, which is a widely accepted open standard for NFTs on the Ethereum blockchain.
+The MyNFT Smart Contract is designed for creators and collectors in the Ethereum blockchain ecosystem. It enables the creation and sale of unique digital assets known as Non-Fungible Tokens (NFTs). Each NFT represents ownership of a specific item or asset, with the details and uniqueness being verifiable on the blockchain. This contract uses the ERC721 standard, which is a widely accepted open standard for NFTs on the Ethereum blockchain.
 
-This contract includes features such as adding different types of NFTs, each with its own maximum supply, minting new NFTs with a random selection mechanism, and managing NFT ownership. It also integrates with an ERC20 token for payment purposes, allowing for a seamless and decentralized transaction process.
+This contract includes features such as adding different types of NFTs, each with its own maximum supply, minting new NFTs with a random selection mechanism, and managing NFT ownership even after deploying it to the blockchain. It also integrates with an ERC20 token for payment purposes, allowing for a seamless and decentralized transaction process.
 
 Whether you are an artist looking to digitize your creations, a game developer seeking to tokenize in-game items, or a digital collector aiming to expand your collection, the MyNFT Smart Contract provides the necessary infrastructure to mint, manage, and transfer your NFTs securely and efficiently.
 
